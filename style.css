@@ -18,14 +18,14 @@ background: linear-gradient(to left, #434343, #000000);  */
 
 
     color:dodgerblue;
-    font-size: 100px;
+    font-size: 150px;
 }
 
 p{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 40vh;
+    margin-top: 35vh;
     
 }
 
