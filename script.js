@@ -5,7 +5,7 @@ function showTime(){
     timeLabel.innerHTML = time.toLocaleTimeString(); 
 };
 
-const clock = setTimeout(() => {
+const clock = setInterval(() => {
     showTime();
 }, 1000);
 
